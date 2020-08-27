@@ -1,0 +1,29 @@
+.product{
+    display:flex;
+    border-bottom: 1px solid lightgray;
+    margin: 5px 10px 5px 0;
+    padding-bottom: 5x;
+}
+.image-area{
+    margin-right: 20px;
+}
+.course-name{
+    color:tomato;
+    font-weight:400;
+}
+.enroll-button{
+    background-color:gold;
+    padding:5px;
+    border-radius: 5px;
+    color:black;
+    width:150px;
+    height: 40px;
+    cursor: pointer;
+    
+}
+.enroll-button:hover{
+    background-color:yellow;
+}
+.enroll{
+    margin-left: 15px;
+}
